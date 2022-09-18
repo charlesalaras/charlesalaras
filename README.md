@@ -1,1 +1,1 @@
-![test](https://github.com/charlesalaras/charlesalaras/raw/main/HelloGithub.gif)
+![HelloTitle](https://github.com/charlesalaras/charlesalaras/raw/main/Hello.gif)
